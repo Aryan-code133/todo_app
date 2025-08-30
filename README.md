@@ -1,4 +1,6 @@
-# Personal To-Do List App
+
+
+# first create a folder {.vscode } and move launch.json in this folder then run todo_app.py
 
 A simple command-line To-Do List application built with Python.
 
@@ -17,9 +19,10 @@ A simple command-line To-Do List application built with Python.
 ```bash
 python todo_app.py add "Finish Assignment" --category Work
 
-### MArk it Completed 
+#### MArk it Completed 
 python todo_app.py complete 1
 
-### Delete the task 
+##### Delete the task 
 python todo_app.py delete 1
+
 
